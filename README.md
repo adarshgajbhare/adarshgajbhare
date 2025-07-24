@@ -1,7 +1,7 @@
 <div align="center">
   <h3>🔗 Connect With Me</h3>
   <br/>
-  <a href="https://adarsh.vercel.app" target="_blank">
+  <a href="https://adarshh.vercel.app" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adarshgajbhare/" target="_blank">
